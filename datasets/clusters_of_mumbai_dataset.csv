@@ -1,0 +1,33 @@
+Location,latitude,longitude,Bin Id's,knn_cluster
+Dongri,18.9617,72.8355,1001,1
+Pydhonie,18.9558,72.8332,1002,1
+Nagpada,18.9624,72.8259,1003,1
+Byculla,18.9766,72.833,1004,1
+Mazgaon,18.9634,72.8371,1005,1
+Mahim,19.038,72.8409,1006,0
+Bharat Nagar (Bandra East),19.0544,72.84,1007,0
+Millat Nagar (Andheri West),19.1292,72.8311,1008,3
+Behrampada (Bandra East),19.0544,72.84,1009,0
+Jogeshwari (East),19.1344,72.861,1010,2
+Kurla (West),19.0728,72.8826,1011,2
+Sonapur–Bhandup,19.146,72.936,1012,2
+Govandi,19.045,72.911,1013,3
+Cheeta Camp,19.033,72.925,1014,3
+Kidwai Nagar (Wadala East),19.0176,72.8612,1015,3
+Kalbadevi,18.95,72.8333,1016,1
+Walkeshwar,18.9516,72.7984,1017,3
+Prabhadevi,19.0169,72.8295,1018,3
+Dadar,19.018,72.842,1019,0
+Girgaon,18.951,72.821,1020,1
+Chinchpokli,18.976,72.831,1021,1
+Lalbaug,18.989,72.833,1022,3
+Parel,18.99,72.83,1023,3
+Ghatkopar,19.0896,72.908,1024,2
+Mulund,19.1726,72.956,1025,2
+Vikhroli,19.112,72.934,1026,2
+Kanjurmarg,19.13,72.935,1027,2
+Orlem (Malad West),19.186,72.842,1028,2
+Mount Mary Church (Bandra West),19.0506,72.8239,1029,0
+St. Andrew's Church (Bandra West),19.054,72.823,1030,0
+St. Peter's Church (Bandra West),19.0545,72.824,1031,0
+St. Michael's Church (Mahim),19.0368,72.84,1032,0
