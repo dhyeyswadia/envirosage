@@ -2,7 +2,6 @@
 
 > Final Year Research Project | Department of Information Technology, TCET  
 > Presented at: [IC-ICN 2025] | Developed by: Dhyey Swadia  
-> Mentor: Mrs. Neha Kapadia  
 
 ---
 
